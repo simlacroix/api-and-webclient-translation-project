@@ -1,0 +1,5 @@
+D:\ProjetsTemp\TranslationProject\TranslationProject\translationproject.client\obj\Debug\translationproject.client.esproj.CoreCompileInputs.cache
+D:\ProjetsTemp\GitLab\api-and-webclient-project\translationproject.client\obj\Debug\translationproject.client.esproj.CoreCompileInputs.cache
+E:\École\Session 6\IFT604 - Applications internet et mobilité\Projet\api-and-webclient-project\translationproject.client\obj\Debug\translationproject.client.esproj.CoreCompileInputs.cache
+C:\Users\maxim\Documents\DI5_Sherbrooke\SESSION_AUTONME\IFT_717-Internet_et_mobilite\Projet Web\api-and-webclient-project\translationproject.client\obj\Debug\translationproject.client.esproj.CoreCompileInputs.cache
+/Users/gwenn-durpoix/Desktop/api-and-webclient-project/translationproject.client/obj/Debug/translationproject.client.esproj.CoreCompileInputs.cache
